@@ -5,13 +5,13 @@ Whether it’s crafting a fitness & wellness app for students, building intellig
 I’m actively exploring the convergence of Web Development, App Development (Flutter), and Artificial Intelligence/Machine Learning. I strongly believe in building applications that combine clean architecture, smart functionality, and a seamless user experience.
 Apart from development, I thrive in collaborative environments like hackathons, where creativity meets teamwork under pressure. These events push me to learn fast, think critically, and build products that matter — all while having fun and growing with like-minded innovators.
 
-🌟 What I Do:
-🌐 Build responsive and user-focused websites using HTML, CSS, JavaScript, and React
-📱 Develop efficient and visually appealing mobile apps with Flutter
-🧠 Explore and experiment with AI/ML models, datasets, and real-life applications
-💡 Solve DSA, work on system design, and improve problem-solving skills
-⚔️ Participate in hackathons, collaborate in teams, and take initiative to lead projects
-🚀 Constantly learn new technologies, contribute to projects, and upgrade my tech stack
+### 🌟 What I Do:
+ -🌐 Develop full-stack web apps using **MERN Stack**
+ -📱 Develop efficient and visually appealing mobile apps with **Flutter**
+ -🧠 Explore and experiment with AI/ML models, datasets, and real-life applications
+ -💡 Solve DSA, work on system design, and improve problem-solving skills
+ -⚔️ Participate in hackathons, collaborate in teams, and take initiative to lead projects
+ -🚀 Constantly learn new technologies, contribute to projects, and upgrade my tech stack
 
 
 ## 🌐 Socials:
