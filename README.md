@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Bhumik Gianani
 
+<img src="Github Banner.png" alt="Bhumik Gianani Banner" width="100%" />
+
 A Computer Engineering student and an enthusiastic Developer & Problem Solver, I’m passionate about turning innovative ideas into impactful and scalable digital solutions.
 Whether it’s crafting a fitness & wellness app for students, building intelligent bots, or automating everyday tasks — I love using code to address real-world challenges and make life better through technology.
 I’m actively exploring the convergence of Web Development, App Development (Flutter), and Artificial Intelligence/Machine Learning. I strongly believe in building applications that combine clean architecture, smart functionality, and a seamless user experience.
